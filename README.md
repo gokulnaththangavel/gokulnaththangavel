@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis and Backend Development
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning 
 - 💞️ I’m looking to collaborate on developing apps (web or desktop) for data analysis using python.
-- 📫 You can reach me via gokulnaththangavel@gmai.com
+- 📫 You can reach me via gokulnaththangavel@gmail.com
 
 <!---
 gokulnaththangavel/gokulnaththangavel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
