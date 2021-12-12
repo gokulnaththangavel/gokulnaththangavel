@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gokulnaththangavel
+- 👋 Hi, I’m @gokulnaththangavel and you can call me Gokul
 - 👀 I’m interested in Data Analysis and Backend Development
-- 🌱 I’m currently learning Machine Learning and Artificial Intelligence
-- 💞️ I’m looking to collaborate on developing apps (web or desktop) for Data analysis using python.
-- 📫 How to reach me gokulnaththangavel@gmai.com
+- 🌱 I’m currently learning Artificial Intelligence and Machine Learning 
+- 💞️ I’m looking to collaborate on developing apps (web or desktop) for data analysis using python.
+- 📫 You can reach me via gokulnaththangavel@gmai.com
 
 <!---
 gokulnaththangavel/gokulnaththangavel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
